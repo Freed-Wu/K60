@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\User\Desktop\K60\src\K60.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=k60-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=k60-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=k60-rectholes.txt|DrillLayers=gtl,gbl
