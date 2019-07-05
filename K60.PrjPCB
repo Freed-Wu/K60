@@ -88,267 +88,152 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\Test Points\Assembly Testpoint Report for K60.csv
+[Document4]
+DocumentPath=etc\main.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for K60\Test Points\Assembly Testpoint Report for K60.csv
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Test Points\Assembly Testpoint Report for K60.ipc
-DItemRevisionGUID=
-
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for K60\Test Points\Assembly Testpoint Report for K60.ipc
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Test Points\Assembly Testpoint Report for K60.txt
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for K60\Test Points\Assembly Testpoint Report for K60.txt
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-K60.csv
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for K60\BOM\Bill of Materials-K60.csv
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Test Points\Fabrication Testpoint Report for K60.csv
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for K60\Test Points\Fabrication Testpoint Report for K60.csv
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Test Points\Fabrication Testpoint Report for K60.ipc
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for K60\Test Points\Fabrication Testpoint Report for K60.ipc
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Test Points\Fabrication Testpoint Report for K60.txt
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for K60\Test Points\Fabrication Testpoint Report for K60.txt
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\NC Drill\K60-RectHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for K60\NC Drill\K60-RectHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\NC Drill\K60-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for K60\NC Drill\K60-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\NC Drill\K60-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for K60\NC Drill\K60-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\NC Drill\K60.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for K60\NC Drill\K60.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for K60\Gerber\K60.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for K60\Gerber\K60.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for K60\Gerber\K60.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for K60\Gerber\K60.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for K60\Gerber\K60.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for K60\Gerber\K60.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument36]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for K60\Gerber\K60.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM11
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM11
 DItemRevisionGUID=
 
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument42]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM12
 DItemRevisionGUID=
 
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument44]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for K60\Gerber\K60.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument50]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for K60\Gerber\K60.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument52]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for K60\Gerber\K60.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument53]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument54]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for K60\Gerber\K60.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument55]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument56]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for K60\Gerber\K60.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument57]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument58]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for K60\Gerber\K60.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument59]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument60]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for K60\Gerber\K60.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument61]
-DocumentPath=Project Outputs for Free Documents\NC Drill\K60.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for K60\NC Drill\K60.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.REP
-DItemRevisionGUID=
-
-[GeneratedDocument64]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for K60\Gerber\K60.REP
 DItemRevisionGUID=
 
-[GeneratedDocument65]
-DocumentPath=Project Outputs for Free Documents\Gerber\K60.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument66]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for K60\Gerber\K60.RUL
 DItemRevisionGUID=
 

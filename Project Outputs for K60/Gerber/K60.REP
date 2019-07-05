@@ -2,19 +2,123 @@
 FileName = K60.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Overlay
-      File : K60.GTO
+Generating : Bottom Pad Master
+      File : K60.GPB
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
+    D19
+    D20
+    D21
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : K60.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : K60.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D11
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : K60.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : K60.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : K60.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
     D12
-    D13
-    D14
-    D15
+    D73
 *************************************************************
 
 *************************************************************
@@ -59,66 +163,30 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Drill Drawing
-      File : K60.GD1
+Generating : Top Overlay
+      File : K60.GTO
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D74
-    D75
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Drill Guide
-      File : K60.GG1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Guide
-
-
-Used DCodes :
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : K60.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
+    D10
+    D11
     D12
-    D73
+    D13
+    D14
+    D15
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : K60.GM13
+Generating : Mechanical 12
+      File : K60.GM12
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Mechanical 12
 
 
 Used DCodes :
     D72
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : K60.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D11
 *************************************************************
 
 *************************************************************
@@ -160,23 +228,8 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : K60.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D15
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : K60.GPB
+Generating : Bottom Layer
+      File : K60.GBL
 
     Adding Layer      : Bottom Layer
 
@@ -184,6 +237,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
+    D11
     D19
     D20
     D21
@@ -202,6 +256,8 @@ Used DCodes :
     D57
     D58
     D59
+    D60
+    D61
     D62
     D63
     D64
@@ -209,8 +265,20 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : K60.GTL
+Generating : Mechanical 13
+      File : K60.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : K60.GPT
 
     Adding Layer      : Top Layer
 
@@ -218,7 +286,6 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D11
     D16
     D17
     D18
@@ -240,8 +307,6 @@ Used DCodes :
     D57
     D58
     D59
-    D60
-    D61
 *************************************************************
 
 *************************************************************
@@ -253,6 +318,32 @@ Generating : Mechanical 11
 
 Used DCodes :
     D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : K60.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : K60.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D15
+    D70
 *************************************************************
 
 *************************************************************
@@ -290,96 +381,5 @@ Used DCodes :
     D42
     D43
     D44
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : K60.GM16
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 12
-      File : K60.GM12
-
-    Adding Layer      : Mechanical 12
-
-
-Used DCodes :
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : K60.GPT
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : K60.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D19
-    D20
-    D21
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
 *************************************************************
 
